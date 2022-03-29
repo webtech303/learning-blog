@@ -1,0 +1,32 @@
+
+.navbar-nav li{
+	font-weight: bold;
+	font-family: Bitter,Georgia,Times,"Times New Roman",serif;
+	font-size: 1.2em;
+}
+.line{
+	margin-top:-20px;
+}
+.col-sm-3{
+		background: green;
+	}
+#footer{
+	height:80px;
+	text-align:center;
+	color:#ffffff;
+	bottom:0;
+	background: #333;
+	}
+#heading{
+	font-weight: bold;
+	font-family: Bitter,Georgia,Times,"Times New Roman",serif;
+	color:#005E90;
+	}
+#heading:hover{
+		color: #0090DB;
+	}
+.post{
+	font-size: 1.1em;
+	font-family: "Lucida Sans Unicode", "Lucida Grande",sans-Serif;
+	text-align: justify;
+}
